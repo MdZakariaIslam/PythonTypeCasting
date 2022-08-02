@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python TypeCasting", "Python TypeCasting.pyproj", "{28BAE322-8F26-46D7-A500-EC3260C67707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BAE322-8F26-46D7-A500-EC3260C67707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BAE322-8F26-46D7-A500-EC3260C67707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C70EE9-FCE6-4C3E-AEB9-06B1CCF469A5}
+	EndGlobalSection
+EndGlobal
